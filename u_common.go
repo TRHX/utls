@@ -612,6 +612,7 @@ var (
 	HelloFirefox_105  = ClientHelloID{helloFirefox, "105", nil, nil}
 	HelloFirefox_120  = ClientHelloID{helloFirefox, "120", nil, nil}
 	HelloFirefox_148  = ClientHelloID{helloFirefox, "148", nil, nil}
+	HelloFirefox_150  = ClientHelloID{helloFirefox, "150", nil, nil}
 
 	HelloChrome_Auto        = HelloChrome_133
 	HelloChrome_58          = ClientHelloID{helloChrome, "58", nil, nil}
